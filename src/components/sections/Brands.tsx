@@ -25,7 +25,7 @@ export const Brands = () => {
               className="p-4 sm:p=5 rounded-2xl bg-body border border-box-border group"
             >
               <img
-                src={`public/assets/logos/${logo}.svg`}
+                src={`/assets/logos/${logo}.svg`}
                 alt="logo"
                 className="h-7 sm:h-12 w-auto ease-linear duration-300 group-hover:scale-110"
               />
